@@ -1,0 +1,5 @@
+{
+  "name": "NeonNotes",
+  "description": "A futuristic, secure note-taking application connecting to a Django backend.",
+  "requestFramePermissions": []
+}
